@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Abubakir_Turakulov_hw_5_2</string>
+    <string name="batagram">Batagram</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="icon">icon</string>
+    <string name="up_with_email">Up with Email</string>
+    <string name="login">Log in</string>
+    <string name="game_now">Game Now</string>
+</resources>
